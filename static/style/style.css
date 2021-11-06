@@ -1,0 +1,7 @@
+#canvas-parent {
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    margin-top: 8vh;
+    border: 2px solid black;
+}
